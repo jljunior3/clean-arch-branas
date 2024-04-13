@@ -1,0 +1,13 @@
+
+—secrets:S6698I"SMake sure this PostgreSQL database password gets changed and removed from the code.(–€€¤üÿÿÿÿJ$c515b417-02cb-4dfd-8c39-c093dd3c1920
+˜secrets:S6698"SMake sure this PostgreSQL database password gets changed and removed from the code.(–€€¤üÿÿÿÿJ$c1bf0ccb-f0c0-4d25-8789-6d1b6950a814
+\typescript:S6647"Useless constructor.(Ú¯œ8îÂåæ1J$88afe9a9-26c0-402e-80c1-0dba817bcefc
+¢typescript:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(¬åíşÿÿÿÿ8óÂåæ1J$3a68a64a-ee6e-4b77-a772-0437d87e1c36
+typescript:S1854"1Remove this useless assignment to variable "dg2".(¬ÊÖøÿÿÿÿ8óÂåæ1J$a1391d25-dd71-4a6c-a32e-a208ddac743a
+€typescript:S1854"2Remove this useless assignment to variable "rest".(¬ÊÖøÿÿÿÿ8óÂåæ1J$51c87fc0-7080-4f48-b9b6-79ab073e51bd
+ltypescript:S125""Remove this commented out code.(¯®×Êÿÿÿÿÿ8ôÂåæ1J$632922f9-8e30-48f9-a2f1-c90b23d701d4
+typescript:S1854/"1Remove this useless assignment to variable "dg1".(ªŸÿÿÿÿÿ8ôÂåæ1J$60f9d4d0-9fb1-4f2d-838b-c48a8bacc256
+ƒtypescript:S1121/"5Extract the assignment of "dg1" from this expression.(ªŸÿÿÿÿÿ8ôÂåæ1J$f595b0c0-1b4f-46bd-b9da-8d16a30691f1
+Ïtypescript:S26817"†This line will not be executed conditionally; only the first line of this 3-line block will be. The rest will execute unconditionally.(©«îK8ôÂåæ1J$90785fa0-c452-4080-b9f6-1a0615955b94
+typescript:S3776H"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(İ»Ú¸8ôÂåæ1J$275ca242-ced1-4d04-8065-f3dbec4683d4
+„typescript:S6353X";Use concise character class syntax '\d' instead of '[0-9]'.(Öéâ±8ôÂåæ1J$78b57b03-c959-4281-89ae-7f1e5520b726

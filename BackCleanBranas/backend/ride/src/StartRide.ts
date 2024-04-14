@@ -1,6 +1,6 @@
 import crypto from "crypto";
 import RideDAO from "./RideDAO";
-import AccountDAO from "./AccountDAO";
+import AccountRepository from "./AccountRepository";
 
 export default class StartRide {
   constructor(private rideDAO: RideDAO) {}
